@@ -1,0 +1,9 @@
+.vscode
+myvenv
+*.jpg
+**/__pycache__
+*.wav
+*.dat
+
+*.pickle
+

@@ -1,0 +1,11 @@
+Click==7.0
+dlib==19.19.0
+face-recognition==1.2.3
+face-recognition-models==0.3.0
+imutils==0.5.3
+numpy==1.18.1
+opencv-python==4.2.0.32
+Pillow==7.0.0
+pkg-resources==0.0.0
+playsound==1.2.2
+pygame==1.9.6
